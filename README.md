@@ -1,4 +1,6 @@
-eco
+Nalo Solutions
 ===
 
-ecobank
+First Atlantic Bank Mobile Banking Application 
+
+Developed by Nalo solutions
